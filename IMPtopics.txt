@@ -1,0 +1,30 @@
+	
+	
+	MPMC Important 
+
+	📌Module 1
+
+	8085&86 architecture
+	Flag register
+	Register set
+	Physical organization of memory
+	Min & max mode 
+	8086 & 8088 comparison 
+	8085 & 8086 comparison
+
+	📌Module 2
+	Addressing modes of 8086
+	Instruction set
+	Assembler directives
+
+	📌Module 3
+	Stack structure of 8086
+	Implementation of stack program
+	Interrupts(definition,types of interrupt, interrupt service routine)
+	8259 architecture
+
+	📌Module 4
+	8255 & 8254 & 8257 architecture
+
+	📌Module 5
+	8051 architecture (definition,addressing modes, instruction set)
